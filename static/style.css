@@ -35,8 +35,11 @@ section{
 margin: 20px 0;
 }
 section#sobre,
+section#Historia,
 section#projetos,
-section#contato {
+section#Meusgostos,
+section#contato
+ {
 background-color: #9b6e6e;
 padding: 20px;
 border-radius: 8px;
